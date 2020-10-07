@@ -13,7 +13,7 @@ module.exports = {
     try {
       throw new Error('This is the error 🚨')
     } catch (error) {
-      utils.build.cancelBuild(`This will cancel the build ${error}.`)
+      utils.build.failBuild(`This will fail the build ${error}.`)
     }
   }
 }
