@@ -1,5 +1,5 @@
 {
-  "name": "netlify-plugin-simple-starter",
+  "name": "netlify-plugin-jamstack-conf",
   "version": "0.0.1",
   "description": "The bare minimum files needed for a Build Plugin _へ__(‾◡◝ )>",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tzmanics/netlify-plugin-simple-starter.git"
+    "url": "git+https://github.com/tzmanics/netlify-plugin-jamstack-conf"
   },
   "keywords": [
     "netlify",
@@ -19,7 +19,7 @@
   "author": "Tara Z. Manicsic <tzmanics@gmail.com> (https://tzmanics.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tzmanics/netlify-plugin-simple-starter/issues"
+    "url": "https://github.com/tzmanics/netlify-plugin-jamstack-conf/issues"
   },
-  "homepage": "https://github.com/tzmanics/netlify-plugin-simple-starter#readme"
+  "homepage": "https://github.com/tzmanics/netlify-plugin-jamstack-conf#readme"
 }
